@@ -153,9 +153,9 @@ header {
 }
 
 .logo {
-  max-width: 100px;
+  max-width: 110px;
   position: absolute;
-  top: -10px;
+  top: -20px;
   left: 20px;
 }
 
