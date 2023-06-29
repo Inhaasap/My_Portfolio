@@ -466,6 +466,10 @@ header {
   padding: 0.5em;
 }
 
+.contact__icon {
+  fill: var(--clr-accent);
+}
+
 /* portfolio section */
 
 .portfolio-item-individual {
