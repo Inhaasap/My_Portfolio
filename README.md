@@ -1,4 +1,4 @@
-# cNqRvZsw
+# How to start
 
 Quick start:
 
