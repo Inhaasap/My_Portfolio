@@ -493,4 +493,5 @@ header {
   margin: 0 auto;
   height: 400px;
   max-width: 800px;
+  border: 5px solid var(--clr-accent);
 }
